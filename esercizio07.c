@@ -1,10 +1,10 @@
 #include <stdio.h>
 int main()
 {
-    int a=5;
-    if (a>5)
+    int a=16;
+    if (a>18)
     {
-        printf("maggiore di 5");
+        printf("sei maggiorenne");
     }
     else  if (a==5)
     {
